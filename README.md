@@ -1,5 +1,5 @@
 # VentilationSystem
-An automatic household ventilation and temperature control system designed using Siemens PLC control through Siemens TIA Portal software. 
+An automatic household ventilation and temperature control system designed using Siemens PLC control through Siemens TIA Portal software, using PID control concepts. 
 
 Authors: 
   -Ville Kuosa
